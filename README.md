@@ -3,10 +3,10 @@
 A sleek and simple **calculator** built using **HTML, CSS, and JavaScript** — no frameworks, no libraries — just pure vanilla code.  
 Perfect for quick calculations, learning DOM manipulation, and practicing front-end fundamentals.
 
-<img width="302" height="421" alt="image" src="https://github.com/user-attachments/assets/401a9e73-710f-4225-8fcd-67efbfce3ad3" />
+<img width="341" height="434" alt="image" src="https://github.com/user-attachments/assets/61d42788-7546-4718-84a6-0a0a795bfeae" />
 
 
-
+---
 ## ✨ Features
 
 - Basic arithmetic operations: `+`, `-`, `×`, `÷`, `%`
