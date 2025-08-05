@@ -3,8 +3,9 @@
 A sleek and simple **calculator** built using **HTML, CSS, and JavaScript** — no frameworks, no libraries — just pure vanilla code.  
 Perfect for quick calculations, learning DOM manipulation, and practicing front-end fundamentals.
 
-<img width="390" height="482" alt="image" src="https://github.com/user-attachments/assets/0b20b917-1b1c-479f-8361-5f9b87e8115b" />
----
+<img width="302" height="421" alt="image" src="https://github.com/user-attachments/assets/401a9e73-710f-4225-8fcd-67efbfce3ad3" />
+
+
 
 ## ✨ Features
 
